@@ -1,3 +1,5 @@
+package tdd;
+
 import java.util.Objects;
 
 public class Pairs {
