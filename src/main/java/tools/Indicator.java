@@ -1,3 +1,5 @@
+package tools;
+
 public class Indicator {
     private boolean status = false;
     private int count = 0;
